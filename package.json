@@ -18,6 +18,7 @@
 		"@tailwindcss/forms": "^0.5.9",
 		"@tailwindcss/typography": "^0.5.15",
 		"@tailwindcss/vite": "^4.0.0",
+		"@types/mathjax": "^0.0.40",
 		"svelte": "^5.0.0",
 		"svelte-check": "^4.0.0",
 		"tailwindcss": "^4.0.0",
@@ -26,6 +27,7 @@
 	},
 	"dependencies": {
 		"better-auth": "^1.1.21",
-		"better-sqlite3": "^11.8.1"
+		"better-sqlite3": "^11.8.1",
+		"mathjax": "^4.0.0"
 	}
 }
