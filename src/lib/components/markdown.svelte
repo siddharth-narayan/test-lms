@@ -29,5 +29,6 @@
     //     HTML
     // }
 </script>
-
+<div class="flex flex-col gap-4">
 {@html html}
+</div>
