@@ -1,7 +1,6 @@
 <script lang="ts">
     import "./markdown.css"
     
-    import { codeToHtml } from "shiki"
     import { onMount } from "svelte";
 
     let { src } = $props();
